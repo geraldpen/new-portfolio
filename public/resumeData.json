@@ -161,13 +161,13 @@
         "title": "Text-to-Speech App",
         "category": "Text to speech web bases app",
         "image": "Text-to-speech-app.jpg",
-        "url": "https://anelembabela.github.io/Text-to-speech-app/"
+        "url": "https://anelembabela.github.io/Text-to-speech/"\
       },
       {
         "title": "Language Translation App",
         "category": "Language translation web based app",
         "image": "trans-lang-app.jpg",
-        "url": "https://anelembabela.github.io/trans-lang-app/"
+        "url": "https://anelembabela.github.io/trans-lang/"
       },
       {
         "title": "Memory game App",
@@ -179,7 +179,7 @@
         "title": "Landing Page",
         "category": "A React based homepage",
         "image": "resume-website.jpg",
-        "url": "https://riot-api-1.pages.dev/header"
+        "url": "https://riot-api-1.pages.dev"
       }  
     ]
   },
