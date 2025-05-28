@@ -158,29 +158,29 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Text-to-Speech App",
-        "category": "Text to speech web bases app",
+        "title": "DevSecOps pipeline",
+        "category": "complite DevSeOps pipeline",
         "image": "Text-to-speech-app.jpg",
-        "url": "https://anelembabela.github.io/Textwre-to-speech/"
+        "url": "https://github.com/geraldpen/devsecops_demo.git"
 
       },
       {
-        "title": "Language Translation App",
-        "category": "Language translation web based app",
+        "title": "DevOpsifying a mern stack applications",
+        "category": "build complite CI/CD pipeline for a mern stack application",
         "image": "trans-lang-app.jpg",
-        "url": "https://anelembabela.github.io/transmmjjnn-lmang/"
+        "url": "https://github.com/pennmokom/mern-stack-devops-demo.git"
       },
       {
-        "title": "Memory game App",
-        "category": "React based memory game web based app",
+        "title": "Microservices",
+        "category": "Microservices applications build with nodejs and MySql. ",
         "image": "game-memory.jpg",
-        "url": "https://game-memory-dffd7ig.pages.dev/"
+        "url": "https://github.com/geraldpen/camtel_hosting_project.git"
       },
       {
-        "title": "Landing Page",
-        "category": "A React based homepage",
+        "title": "doveps_projects_with_jenkings",
+        "category": "DevOps with Jenkins",
         "image": "resume-website.jpg",
-        "url": "https://riot-api-1.fdfpages.dev"
+        "url": "https://github.com/geraldpen/doveps_projects_with_jenkings.git"
       }  
     ]
   },
